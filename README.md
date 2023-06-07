@@ -1,4 +1,4 @@
-# Mascara - og:image generator for actors
+# Mascara - og:image generator for Apify actors
 
 This repository contains an experimental OG image generator based on the `satori` library. It takes a JSX template as input and generates an image that can be used as the Open Graph image for a website.
 
